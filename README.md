@@ -4,3 +4,6 @@ TMXファイルから、ソースとターゲットをテキストに出力す�
 # Requirements  
 - Windows
 - TMX の lang 属性値で、ソースが en-US、ターゲットが ja-JP であること
+
+## License
+MIT
