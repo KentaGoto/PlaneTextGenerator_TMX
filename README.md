@@ -1,9 +1,11 @@
 # PlaneTextGenerator_TMX
-TMXファイルから、ソースとターゲットをテキストに出力する。
 
-# Requirements  
+## Description  
+Output source and target from a TMX file to text.  
+
+## Requirements  
 - Windows
-- TMX の lang 属性値で、ソースが en-US、ターゲットが ja-JP であること
+- TMX's lang attribute value with the source being en-US and the target being ja-JP
 
 ## License
 MIT
