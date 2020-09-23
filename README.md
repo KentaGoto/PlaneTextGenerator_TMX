@@ -9,3 +9,6 @@ Output source and target from a TMX file to text.
 
 ## License
 MIT
+
+## Author  
+Kenta Goto
