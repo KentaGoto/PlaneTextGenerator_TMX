@@ -9,11 +9,6 @@ binmode STDIN,  ':encoding(cp932)';
 binmode STDOUT, ':encoding(cp932)';
 binmode STDERR, ':encoding(cp932)';
 
-#########################################################################
-#                                                                       #
-#  	TMX からプレーンテキストを抽出する											#
-#  																		#
-#########################################################################
 
 #Local time settings
 my $times = time();
