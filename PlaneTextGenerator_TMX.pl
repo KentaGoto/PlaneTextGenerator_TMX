@@ -39,8 +39,6 @@ while (<*.tmx>){
 	
 }
 
-#print $out $_."\n" for decode_entities(@ja);
-
 for ( my $i=0; $i < scalar(@en); $i++ ) {
 	my $en_out = $en[$i];
 	my $ja_out = $ja[$i];
