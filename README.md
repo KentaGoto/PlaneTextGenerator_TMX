@@ -1,7 +1,7 @@
 # PlaneTextGenerator_TMX
 
 ## Description  
-Output source and target from a TMX file to plain text.  
+Output source (en-US) and target (ja-JP) from a TMX file to plain text.  
 
 ## Requirements  
 - Windows
